@@ -37,12 +37,12 @@ ______________________________
 
 ### 1.Teacher - Sign Up and Add question
 
-![ Sign Up and Add question Gif](demoGif\Teacher.gif)
+![ Sign Up and Add question Gif](./demoGif/Teacher.gif)
 
 ### 2. Student - Sign In and Submit Answer
    
-![Sign In and Submit Answer Gif](demoGif\Student.gif)
+![Sign In and Submit Answer Gif](./demoGif/Student.gif)
 
 ### 3. Report
    
-![Report Gif](demoGif\Report.gif)
+![Report Gif](./demoGif/Report.gif)
